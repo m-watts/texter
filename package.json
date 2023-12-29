@@ -1,0 +1,11 @@
+{
+  "name": "texter",
+  "version": "0.1.0",
+  "description": "A i18n and l10n library for Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Stanly Watts",
+  "license": "MIT"
+}
